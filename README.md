@@ -4,7 +4,7 @@
 
 Built for the Meta Global AI Developer Hackathon· Track: Indie developer· Theme: Build for Your World
 
-> **Problem statement:** > **Problem statement:** Finance teams lose money to vendor invoices that don't match what was ordered and received: over-billed quantities, price creep, unauthorised charges and tampered bank details. Checking three documents by hand for every invoice is slow and error-prone. Autonomous CFO automates the 3-way match, explains every exception with an AI-written audit workpaper, and keeps a human in control of every payment.
+> **Problem statement:**  Finance teams lose money to vendor invoices that don't match what was ordered and received: over-billed quantities, price creep, unauthorised charges and tampered bank details. Checking three documents by hand for every invoice is slow and error-prone. Autonomous CFO automates the 3-way match, explains every exception with an AI-written audit workpaper, and keeps a human in control of every payment.
 
 ---
 
