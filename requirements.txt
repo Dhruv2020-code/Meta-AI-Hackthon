@@ -1,0 +1,7 @@
+streamlit>=1.39
+plotly
+pandas
+numpy
+openai
+pillow
+python-dotenv
