@@ -2,9 +2,9 @@
 
 **Stop paying invoices that don't match what you ordered and received.**
 
-Built for the Meta Global AI Developer Hackathon Â· Track: Indie developer Â· Theme: Build for Your World
+Built for the Meta Global AI Developer Hackathon· Track: Indie developer· Theme: Build for Your World
 
-> **Problem statement:** [REPLACE THIS LINE with the problem statement you chose from the event page, in your own words]
+> **Problem statement:** > **Problem statement:** Finance teams lose money to vendor invoices that don't match what was ordered and received: over-billed quantities, price creep, unauthorised charges and tampered bank details. Checking three documents by hand for every invoice is slow and error-prone. Autonomous CFO automates the 3-way match, explains every exception with an AI-written audit workpaper, and keeps a human in control of every payment.
 
 ---
 
